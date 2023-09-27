@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+ }
+
+.mi-boton{
+    background-color: #3d3e;
+    border: black;
+}
+.mi-boton:hover{
+background-color: aqua;
+transition: 0.3s;
+border: black;
+}
